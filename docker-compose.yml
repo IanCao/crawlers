@@ -1,0 +1,28 @@
+version: '3'
+services:
+  crawlers:
+    image: crawler:0.0.1
+    depends_on:
+      - database
+    entrypoint: "sleep 30s"
+    environment:
+      account: root
+      passwd: 123456
+      url: "database:3307"
+    networks:
+      - crawlers_net
+  database:
+    image: crawler-mysql:0.0.1
+    ports:
+      - "3307:3306"
+    networks:
+      - crawlers_net
+    environment:
+      MYSQL_ROOT_PASSWORD: "123456"
+      MYSQL_USER: 'root'
+      MYSQL_PASS: '123456'
+    restart: on-failure
+networks:
+  crawlers_net:
+    external:
+      name: crawlers_back

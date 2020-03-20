@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e89dea9-c22f-4554-adcf-ee5d348f5ebb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1ZGMYRBAOM3Zx2nPsu7uxnq0xVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pachong/crawler/maifang" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pachong/crawler/maifang" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../crawlers/crawler-core" />
+      <recent name="$PROJECT_DIR$/../crawlers/mysql" />
+      <recent name="$PROJECT_DIR$/../crawlers" />
+      <recent name="$PROJECT_DIR$/../crawlers/crawlers" />
+      <recent name="$PROJECT_DIR$/pachong/crawler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.crawlers.crawlers: Compose Deployment">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="crawlers" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build crawlers" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crawlers" />
+      <working_directory value="$PROJECT_DIR$/../crawlers/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../crawlers/crawler.go" />
+      <package value="crawlers" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build crawlers/crawler-core" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crawlers" />
+      <working_directory value="$PROJECT_DIR$/../crawlers/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../crawlers/crawler-core/crawler.go" />
+      <package value="crawlers/crawler-core" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build crawlers/crawlers" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crawlers" />
+      <working_directory value="$PROJECT_DIR$/../crawlers/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/../crawlers/crawlers/crawler.go" />
+      <package value="crawlers/crawlers" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build pachong.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crawlers" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pachong/pachong.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="crawlers" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawlers.crawlers: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="crawlers" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="../crawlers/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.crawlers.crawlers: Compose Deployment" />
+        <item itemvalue="Go Build.go build crawlers/crawler-core" />
+        <item itemvalue="Go Build.go build crawlers" />
+        <item itemvalue="Go Build.go build crawlers/crawlers" />
+        <item itemvalue="Go Build.go build pachong.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="-956" key="#Build_Tags_&amp;_Vendoring" timestamp="1584534708174">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="411" y="-956" key="#Build_Tags_&amp;_Vendoring/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584534708174" />
+    <state x="411" y="-956" key="#Go_Modules_(vgo)" timestamp="1584535149325">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="411" y="-956" key="#Go_Modules_(vgo)/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584535149325" />
+    <state x="550" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584721081985">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="550" y="319" key="#com.intellij.fileTypes.FileTypeChooser/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584721081984" />
+    <state x="359" y="-914" key="#com.intellij.fileTypes.FileTypeChooser/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584598932125" />
+    <state x="397" y="117" key="#crawlers.crawlers:_Compose_Deployment" timestamp="1584723027664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="117" key="#crawlers.crawlers:_Compose_Deployment/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584723027664" />
+    <state x="397" y="27" key="#go_build_crawlers" timestamp="1584717356032">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="27" key="#go_build_crawlers/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584717356032" />
+    <state x="397" y="27" key="#go_build_crawlers/crawler-core" timestamp="1584721768020">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="27" key="#go_build_crawlers/crawler-core/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584721768020" />
+    <state x="397" y="27" key="#go_build_crawlers/crawlers" timestamp="1584711609080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="27" key="#go_build_crawlers/crawlers/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584711609080" />
+    <state width="1388" height="503" key="GridCell.Tab.0.bottom" timestamp="1584721802129">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.bottom/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691197905" />
+    <state width="1868" height="360" key="GridCell.Tab.0.bottom/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109611" />
+    <state width="1868" height="243" key="GridCell.Tab.0.bottom/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584710523894" />
+    <state width="1388" height="503" key="GridCell.Tab.0.bottom/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584721802129" />
+    <state width="1868" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274143" />
+    <state width="2508" height="401" key="GridCell.Tab.0.bottom/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103958" />
+    <state width="1388" height="503" key="GridCell.Tab.0.center" timestamp="1584721802127">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.center/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691197903" />
+    <state width="1868" height="360" key="GridCell.Tab.0.center/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109607" />
+    <state width="1868" height="243" key="GridCell.Tab.0.center/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584710523893" />
+    <state width="1388" height="503" key="GridCell.Tab.0.center/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584721802127" />
+    <state width="1868" height="237" key="GridCell.Tab.0.center/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274141" />
+    <state width="2508" height="401" key="GridCell.Tab.0.center/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103957" />
+    <state width="1388" height="503" key="GridCell.Tab.0.left" timestamp="1584721802126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.left/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691197902" />
+    <state width="1868" height="360" key="GridCell.Tab.0.left/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109605" />
+    <state width="1868" height="243" key="GridCell.Tab.0.left/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584710523892" />
+    <state width="1388" height="503" key="GridCell.Tab.0.left/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584721802126" />
+    <state width="1868" height="237" key="GridCell.Tab.0.left/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274140" />
+    <state width="2508" height="401" key="GridCell.Tab.0.left/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103955" />
+    <state width="1388" height="503" key="GridCell.Tab.0.right" timestamp="1584721802128">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.0.right/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691197904" />
+    <state width="1868" height="360" key="GridCell.Tab.0.right/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109608" />
+    <state width="1868" height="243" key="GridCell.Tab.0.right/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584710523893" />
+    <state width="1388" height="503" key="GridCell.Tab.0.right/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584721802128" />
+    <state width="1868" height="237" key="GridCell.Tab.0.right/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274142" />
+    <state width="2508" height="401" key="GridCell.Tab.0.right/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103957" />
+    <state width="1868" height="643" key="GridCell.Tab.1.bottom" timestamp="1584695613077">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.bottom/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691199018" />
+    <state width="1868" height="360" key="GridCell.Tab.1.bottom/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109636" />
+    <state width="1868" height="643" key="GridCell.Tab.1.bottom/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584695613077" />
+    <state width="1868" height="237" key="GridCell.Tab.1.bottom/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274145" />
+    <state width="2508" height="401" key="GridCell.Tab.1.bottom/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103959" />
+    <state width="1868" height="643" key="GridCell.Tab.1.center" timestamp="1584695613076">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.center/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691199017" />
+    <state width="1868" height="360" key="GridCell.Tab.1.center/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109630" />
+    <state width="1868" height="643" key="GridCell.Tab.1.center/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584695613076" />
+    <state width="1868" height="237" key="GridCell.Tab.1.center/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274144" />
+    <state width="2508" height="401" key="GridCell.Tab.1.center/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103959" />
+    <state width="1868" height="643" key="GridCell.Tab.1.left" timestamp="1584695613075">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.left/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691199016" />
+    <state width="1868" height="360" key="GridCell.Tab.1.left/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109627" />
+    <state width="1868" height="643" key="GridCell.Tab.1.left/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584695613075" />
+    <state width="1868" height="237" key="GridCell.Tab.1.left/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274143" />
+    <state width="2508" height="401" key="GridCell.Tab.1.left/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103958" />
+    <state width="1868" height="643" key="GridCell.Tab.1.right" timestamp="1584695613076">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="395" key="GridCell.Tab.1.right/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584691199017" />
+    <state width="1868" height="360" key="GridCell.Tab.1.right/-49.-1057.1920.1057/35.23.1405.877@-49.-1057.1920.1057" timestamp="1584497109632" />
+    <state width="1868" height="643" key="GridCell.Tab.1.right/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584695613076" />
+    <state width="1868" height="237" key="GridCell.Tab.1.right/0.0.1440.900/-618.-1440.2560.1440@-618.-1440.2560.1440" timestamp="1584584274145" />
+    <state width="2508" height="401" key="GridCell.Tab.1.right/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584616103959" />
+    <state x="113" y="1" key="SettingsEditor" timestamp="1584710887448">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="113" y="1" key="SettingsEditor/-49.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584710887448" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1584691765702">
+      <screen x="-49" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="960" height="540" key="XDebugger.FullValuePopup/-49.-1057.1920.1057/34.23.1406.877@-49.-1057.1920.1057" timestamp="1584690981661" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup/-49.-1080.1920.1080/0.0.1440.900@-49.-1080.1920.1080" timestamp="1584691765702" />
+    <state x="368" y="-1166" key="refactoring.ChangeSignatureDialog" timestamp="1584597498535">
+      <screen x="-618" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="368" y="-1166" key="refactoring.ChangeSignatureDialog/34.23.1406.877/-618.-1417.2560.1417@-618.-1417.2560.1417" timestamp="1584597498535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../crawlers/crawlers/core/zufang/58.go</url>
+          <line>73</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../crawlers/crawlers/core/zufang/58.go</url>
+          <line>92</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
