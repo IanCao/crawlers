@@ -4,17 +4,17 @@ services:
     image: crawler:0.0.1
     depends_on:
       - database
-    entrypoint: "sleep 30s"
+    entrypoint: "sleep 300s"
     environment:
       account: root
       passwd: 123456
-      url: "database:3307"
+      url: "database:3306"
     networks:
       - crawlers_net
   database:
     image: crawler-mysql:0.0.1
     ports:
-      - "3307:3306"
+      - "3306:3306"
     networks:
       - crawlers_net
     environment:
